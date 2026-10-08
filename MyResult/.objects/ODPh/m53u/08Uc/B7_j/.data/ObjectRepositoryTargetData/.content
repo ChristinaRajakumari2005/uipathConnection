@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_zBJSLRiZUy1_IUP2SgkbA" Reference="KbQY--HrrE2mZ4pAf4LsRw/B7_jhPc3jEGTYn5sHpWaiA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="coe.licet.ac.in/studentlogin/index.php" DesignTimeRectangle="277, 569, 113, 122" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='forms' tableRow='14' tag='IFRAME' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='4' tag='IMG' /&gt;" Guid="113abca4-aca7-4b97-ac6d-b275541ccc5f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Loyola-ICAM College of Engineering and Technology (Autonomous )' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e2334e0eb9a063367e70f0a12810e72b.jpg" xmlns="">0R_FgG8uv30ONCOqb1fCywg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome gmail - Google Search(2)",
+  "Type": "Screen",
+  "Id": "HSzFLbkUxUy1M2mjTVfm2w",
+  "Reference": "AtcXMUpUk0yLWEhqPm-nrQ/HSzFLbkUxUy1M2mjTVfm2w",
+  "ParentRef": "AtcXMUpUk0yLWEhqPm-nrQ/qKRbyHSEPUON38gA1ERUXw",
+  "Created": "2026-10-06T08:47:43.7179399Z",
+  "Updated": "2026-10-06T08:47:43.7179399Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

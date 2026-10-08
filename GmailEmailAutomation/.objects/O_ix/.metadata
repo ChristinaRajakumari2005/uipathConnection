@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome gmail - Google Search",
+  "Type": "App",
+  "Id": "O_ixPm0-PUGmvqfrPk908Q",
+  "Reference": "AtcXMUpUk0yLWEhqPm-nrQ/O_ixPm0-PUGmvqfrPk908Q",
+  "Created": "2026-10-06T05:23:19.0866626Z",
+  "Updated": "2026-10-06T05:23:19.0866626Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

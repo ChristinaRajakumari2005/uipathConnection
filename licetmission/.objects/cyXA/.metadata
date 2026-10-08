@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome licet - Google Search",
+  "Type": "App",
+  "Id": "cyXAxO4V90uw5ygtXKemyw",
+  "Reference": "T_E6eSpSl0-cdD9-Prw-ug/cyXAxO4V90uw5ygtXKemyw",
+  "Created": "2026-10-01T09:24:17.1872528Z",
+  "Updated": "2026-10-01T09:24:17.1872528Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

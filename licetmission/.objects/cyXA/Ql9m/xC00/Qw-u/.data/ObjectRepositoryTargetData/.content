@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nRRayTp0ZUOS6qEbgi3dug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="licet.ac.in/about/mission-vision" DesignTimeRectangle="980, 370, 452, 600" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='wpb_wrapper' parentid='pt' tag='DIV' /&gt;" Guid="ea437588-2fdc-470d-bdee-68f909e413d7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Mission &amp;amp; Vision – LICET' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="78602fad9395d145d6e9606a6f96e9d7.jpg" xmlns="">0-ziRNK5n9k6M7RxVKJMbAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

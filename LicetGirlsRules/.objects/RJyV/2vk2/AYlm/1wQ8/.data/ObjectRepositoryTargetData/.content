@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3NGbyNQY9UW6M-yYnov6tw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="licet.ac.in/rules-and-regulations" DesignTimeRectangle="285, 460, 1350, 180" ElementType="List" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='6' parentid='content' tag='UL' /&gt;" Guid="eef01265-004a-4e28-94ca-85235a596c4a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rules And Regulations – LICET' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ab17585b139a3f3c0a282ef720956a8b.jpg" xmlns="">0Mmb8o1MsWEiUWuyHUEWOww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "EXAM RESULT",
+  "Type": "Element",
+  "Id": "B7_jhPc3jEGTYn5sHpWaiA",
+  "Reference": "KbQY--HrrE2mZ4pAf4LsRw/B7_jhPc3jEGTYn5sHpWaiA",
+  "ParentRef": "KbQY--HrrE2mZ4pAf4LsRw/08Uc-c6JZEeIEMXsZK2ioQ",
+  "Created": "2026-09-30T04:12:35.3590367Z",
+  "Updated": "2026-09-30T04:12:35.3590367Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Rules And Regulations – LICET",
+  "Type": "App",
+  "Id": "RJyVtH6gKEC5r1v_SugFZg",
+  "Reference": "LRt3yot6i0-lozVse45ehQ/RJyVtH6gKEC5r1v_SugFZg",
+  "Created": "2026-10-07T03:07:52.7627721Z",
+  "Updated": "2026-10-07T03:07:52.7627721Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

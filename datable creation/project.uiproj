@@ -1,0 +1,6 @@
+{
+  "Name": "datable creation",
+  "ProjectType": "Process",
+  "Description": "datatable with a schema ",
+  "MainFile": "Main.xaml"
+}

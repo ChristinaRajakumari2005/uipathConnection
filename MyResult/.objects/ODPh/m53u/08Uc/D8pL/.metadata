@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT pass_word",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Id": "D8pLqCTrmkOYE0YKwl1w5Q",
+  "Reference": "KbQY--HrrE2mZ4pAf4LsRw/D8pLqCTrmkOYE0YKwl1w5Q",
+  "ParentRef": "KbQY--HrrE2mZ4pAf4LsRw/08Uc-c6JZEeIEMXsZK2ioQ",
+  "Created": "2026-09-30T04:41:10.9095092Z",
+  "Updated": "2026-09-30T04:41:10.9095092Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

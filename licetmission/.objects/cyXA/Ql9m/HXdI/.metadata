@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome licet - Google Search",
+  "Type": "Screen",
+  "Id": "HXdIjhJ1F0-8Y8rbX_vjbg",
+  "Reference": "T_E6eSpSl0-cdD9-Prw-ug/HXdIjhJ1F0-8Y8rbX_vjbg",
+  "ParentRef": "T_E6eSpSl0-cdD9-Prw-ug/Ql9mgpVqc0Su0bbqZr7egA",
+  "Created": "2026-10-01T09:24:17.2081293Z",
+  "Updated": "2026-10-01T09:24:17.2081293Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

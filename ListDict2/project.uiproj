@@ -1,0 +1,6 @@
+{
+  "Name": "ListDict2",
+  "ProjectType": "Process",
+  "Description": "manipulate collection data - from the pre created lst and dict",
+  "MainFile": "Main.xaml"
+}

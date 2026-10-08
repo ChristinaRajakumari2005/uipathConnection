@@ -1,0 +1,6 @@
+{
+  "Name": "LicetGirlsRules",
+  "ProjectType": "Process",
+  "Description": "go to licet webiste and under \"dress code for girls\" print each statement as strings of array",
+  "MainFile": "Main.xaml"
+}

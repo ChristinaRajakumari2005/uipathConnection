@@ -1,0 +1,6 @@
+{
+  "Name": "First Project",
+  "ProjectType": "Process",
+  "Description": "Hello World",
+  "MainFile": "Main.xaml"
+}
